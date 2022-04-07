@@ -1,4 +1,5 @@
 # Sudent_marks counter 
+#copyright of this code has Abdirizak abdullahi hussein 
 
 def Student_marks():
     i = 0
